@@ -3,7 +3,7 @@ class Father:
     def skill_father(self):
         print("Father knows driving.")
 
-# Second parent class
+# Second parent class .
 class Mother:
     def skill_mother(self):
         print("Mother knows cooking.")
