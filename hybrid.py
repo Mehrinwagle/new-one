@@ -19,7 +19,7 @@ class Admin(Employee):
         self.role=role
     def show_role(self):
         print("role :",self.role)
-#another base class(hireachal part)
+#another base class(hierarchical part)
 class Contact:
     def __init__(self,email):
         self.email=email
