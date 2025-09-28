@@ -1,4 +1,4 @@
-#list 
+#list .
 class Fruits:
     def name(self,a):
         self.a=a
